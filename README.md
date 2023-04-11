@@ -1,1 +1,1 @@
-# Graphical-User-Interface-Using-TKInter
+This section contains code for the implementation of graphical user interface with tkInter python package.
